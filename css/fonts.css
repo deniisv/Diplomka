@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Forum';
+    src: local('Forum'),
+        url('../fonts/Forum.woff2') format('woff2'),
+        url('../fonts/Forum.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jost';
+    src: local('Jost Regular'), local('Jost-Regular'),
+        url('../fonts/Jost-Regular.woff2') format('woff2'),
+        url('../fonts/Jost-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jost';
+    src: local('Jost Bold'), local('Jost-Bold'),
+        url('../fonts/Jost-Bold.woff2') format('woff2'),
+        url('../fonts/Jost-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
